@@ -191,12 +191,12 @@ You are free to **use**, **modify**, and **distribute** this code, but you **mus
 
   | Image                                                                                      | Copyright Owner                            | Address                               |
   |--------------------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------|
-  | [CH02_Fig0222(b)(cameraman).tif](./assets/images/dip_3rd/CH02_Fig0222(b)(cameraman).tif)    | Massachusetts Institute of Technology      | [MIT.edu](https://MIT.edu)           |
-  | [CH03_Fig0309(a)(washed_out_aerial_image).tif](./assets/images/dip_3rd/CH03_Fig0309(a)(washed_out_aerial_image).tif) | NASA                                       | [nasa.gov](https://nasa.gov)         |
-  | [CH03_Fig0326(a)(embedded_square_noisy_512).tif](./assets/images/dip_3rd/CH03_Fig0326(a)(embedded_square_noisy_512).tif) | -                                          | [imageprocessingplace.com](https://imageprocessingplace.com) |
-  | [CH03_Fig0354(a)(einstein_orig).tif](./assets/images/dip_3rd/CH03_Fig0354(a)(einstein_orig).tif) | Public domain                              | -                                     |
-  | [CH06_Fig0638(a)(lenna_RGB).tif](./assets/images/dip_3rd/CH06_Fig0638(a)(lenna_RGB).tif)    | Public domain                              | -                                     |
-  | [CH06_FigP0606(color_bars).tif](./assets/images/dip_3rd/CH06_FigP0606(color_bars).tif)      | -                                          | -                                     |
+  | [Fig0222(b)(cameraman).tif](./assets/images/dip_3rd/CH02/Fig0222(b)(cameraman).tif)    | Massachusetts Institute of Technology      | [MIT.edu](https://MIT.edu)           |
+  | [Fig0309(a)(washed_out_aerial_image).tif](./assets/images/dip_3rd/CH03/Fig0309(a)(washed_out_aerial_image).tif) | NASA                                       | [nasa.gov](https://nasa.gov)         |
+  | [Fig0326(a)(embedded_square_noisy_512).tif](./assets/images/dip_3rd/CH03/Fig0326(a)(embedded_square_noisy_512).tif) | -                                          | [imageprocessingplace.com](https://imageprocessingplace.com) |
+  | [Fig0354(a)(einstein_orig).tif](./assets/images/dip_3rd/CH03/Fig0354(a)(einstein_orig).tif) | Public domain                              | -                                     |
+  | [Fig0638(a)(lenna_RGB).tif](./assets/images/dip_3rd/CH06/Fig0638(a)(lenna_RGB).tif)    | Public domain                              | -                                     |
+  | [FigP0606(color_bars).tif](./assets/images/dip_3rd/CH06/FigP0606(color_bars).tif)      | -                                          | -                                     |
 
 - **Library-specific Images**:
 
