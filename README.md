@@ -23,15 +23,16 @@ A comprehensive resource to explore media processing, from fundamental concepts 
 
 1. [**Introduction to Digital Images**](./code/01-introduction.ipynb)
 1. [**Load & Save Images**](./code/02-io.ipynb)
-1. [**Interpolating Images**](./code/03-interpolation.ipynb)
-1. [**Apply Geometric Transformations**](./code/04-geometric-transformation.ipynb)
-1. [**Intensity Transformations**](./code/05-intensity-transformation.ipynb)
-1. [**Histogram Processing**](./code/06-histogram-processing.ipynb)
-1. [**Spatial Filtering using Convolution**](./code/07-spatial-filtering.ipynb)
-1. [**Frequency Filtering using Fourier & Cosine Transform**](./code/08-frequency-filtering.ipynb)
-1. [**Multi-Resolution Analysis (Wavelet Transform)**](./code/09-multi-resolution-analysis.ipynb)
-1. [**Image Compression (JPEG Coded)**](./code/10-image-compression.ipynb)
-1. [**Morphological Processing**](./code/11-morphological-processing.ipynb)
+1. [**Common Digital Image Types**](./code/03-common-types.ipynb)
+1. [**Interpolating Images**](./code/04-interpolation.ipynb)
+1. [**Apply Geometric Transformations**](./code/05-geometric-transformation.ipynb)
+1. [**Intensity Transformations**](./code/06-intensity-transformation.ipynb)
+1. [**Histogram Processing**](./code/07-histogram-processing.ipynb)
+1. [**Spatial Filtering using Convolution**](./code/08-spatial-filtering.ipynb)
+1. [**Frequency Filtering using Fourier & Cosine Transform**](./code/09-frequency-filtering.ipynb)
+1. [**Multi-Resolution Analysis (Wavelet Transform)**](./code/10-multi-resolution-analysis.ipynb)
+1. [**Image Compression (JPEG Coded)**](./code/11-image-compression.ipynb)
+1. [**Morphological Processing**](./code/12-morphological-processing.ipynb)
 
 ### 📖 Utilities
 
