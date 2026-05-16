@@ -42,6 +42,7 @@ A collection of concepts and tools utilized in the main notebooks
 - [**Introductions to Compression**](./code/utils/compression.ipynb)
 - [**All about Paddings**](./code/utils/padding.ipynb)
 - [**Quality Assessment Metrics**](./code/utils/quality-assessment.ipynb)
+- [**Applying Tone Filters**](./code/utils/tone-filters.ipynb)
 
 ### 📖 Projects
 
