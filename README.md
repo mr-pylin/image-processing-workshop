@@ -190,16 +190,22 @@ You are free to **use**, **modify**, and **distribute** this code, but you **mus
 
 - The images located in the [**./assets/images/dip_3rd/**](./assets/images/dip_3rd/) folder are licensed under the table below:  
 
-  | Image                                                                                      | Copyright Owner                            | Address                               |
-  |--------------------------------------------------------------------------------------------|--------------------------------------------|---------------------------------------|
-  | [Fig0222(b)(cameraman).tif](./assets/images/dip_3rd/CH02/Fig0222(b)(cameraman).tif)    | Massachusetts Institute of Technology      | [MIT.edu](https://MIT.edu)           |
-  | [Fig0309(a)(washed_out_aerial_image).tif](./assets/images/dip_3rd/CH03/Fig0309(a)(washed_out_aerial_image).tif) | NASA                                       | [nasa.gov](https://nasa.gov)         |
-  | [Fig0326(a)(embedded_square_noisy_512).tif](./assets/images/dip_3rd/CH03/Fig0326(a)(embedded_square_noisy_512).tif) | -                                          | [imageprocessingplace.com](https://imageprocessingplace.com) |
-  | [Fig0354(a)(einstein_orig).tif](./assets/images/dip_3rd/CH03/Fig0354(a)(einstein_orig).tif) | Public domain                              | -                                     |
-  | [Fig0638(a)(lenna_RGB).tif](./assets/images/dip_3rd/CH06/Fig0638(a)(lenna_RGB).tif)    | Public domain                              | -                                     |
-  | [FigP0606(color_bars).tif](./assets/images/dip_3rd/CH06/FigP0606(color_bars).tif)      | -                                          | -                                     |
+  | Image | Copyright Owner | Address |
+  | ----- | --------------- | ------- |
+  | [Fig0110(1)(WashingtonDC Band{1,7}).tif](./assets/images/dip_3rd/CH01/) | NASA | [nasa.gov](https://nasa.gov) |
+  | [Fig0222(b)(cameraman).tif](./assets/images/dip_3rd/CH02/Fig0222(b)(cameraman).tif) | Massachusetts Institute of Technology | [MIT.edu](https://MIT.edu) |
+  | [Fig0309(a)(washed_out_aerial_image).tif](./assets/images/dip_3rd/CH03/Fig0309(a)(washed_out_aerial_image).tif) | NASA | [nasa.gov](https://nasa.gov) |
+  | [Fig0326(a)(embedded_square_noisy_512).tif](./assets/images/dip_3rd/CH03/Fig0326(a)(embedded_square_noisy_512).tif) | - | [imageprocessingplace.com](https://imageprocessingplace.com) |
+  | [Fig0354(a)(einstein_orig).tif](./assets/images/dip_3rd/CH03/Fig0354(a)(einstein_orig).tif) | Public domain | - |
+  | [Fig0638(a)(lenna_RGB).tif](./assets/images/dip_3rd/CH06/Fig0638(a)(lenna_RGB).tif) | Public domain | - |
+  | [FigP0606(color_bars).tif](./assets/images/dip_3rd/CH06/FigP0606(color_bars).tif) | - | - |
 
-- **Library-specific Images**:
+- **Wikipedia Assets**
+
+  - The images located in the [**assets/images/wikipedia/**](./assets/images/wikipedia/) folder are sourced from the [**Wikipedia**](https://wikipedia.org/) website.
+  - Attributions and references to the files included in [**assets/images/wikipedia/**](./assets/images/wikipedia/) are included in the code where these images are used.
+
+- **Library-specific Assets**:
 
   - The images located in the [**assets/images/libraries/opencv/**](./assets/images/libraries/opencv/) folder are sourced from the [**OpenCV documentation**](https://opencv.org/) and are licensed under the [**Apache License 2.0**](https://opencv.org/license/).
   - The images located in the [**assets/images/libraries/pillow/**](./assets/images/libraries/pillow/) folder are sourced from the [**Pillow documentation**](https://pillow.readthedocs.io/en/stable/) and are licensed under the [**MIT-CMU License**](https://pillow.readthedocs.io/en/stable/about.html).
@@ -208,9 +214,10 @@ You are free to **use**, **modify**, and **distribute** this code, but you **mus
 
 - **Third-Party Assets**:
 
-  - Additional images located in [**./assets/images/third_party/**](./assets/images/third_party/) are used with permission or according to their original licenses.
-  - Attributions and references to the files included in [**./assets/images/third_party/**](./assets/images/third_party/) are included in the code where these images are used.
+  - Additional images located in [**assets/images/third_party/**](./assets/images/third_party/) are used with permission or according to their original licenses.
+  - Attributions and references to the files included in [**assets/images/third_party/**](./assets/images/third_party/) are included in the code where these images are used.
 
-- **Miscellaneous assets**:
+### ©️ Copyright Concerns
 
-  - The images found in [**./assets/images/misc/**](./assets/images/misc/) are modified versions of the ones listed above.
+- If you are a copyright holder and believe that any asset in this repository has been included improperly or without appropriate attribution, please contact the repository maintainer.
+- Upon verification, the content will be promptly corrected or removed as necessary.
