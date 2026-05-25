@@ -58,7 +58,7 @@ A collection of concepts and tools utilized in the main notebooks
   - Experience with libraries like **NumPy** and **Matplotlib**.
     - My NumPy Workshop: [**github.com/mr-pylin/numpy-workshop**](https://github.com/mr-pylin/numpy-workshop)
     - My Data Visualization Workshop: [**github.com/mr-pylin/data-visualization-workshop**](https://github.com/mr-pylin/data-visualization-workshop)
-- 🔣 **Mathematics for Machine Learning**
+- 🔣 **Mathematics for Image Processing**
   - 🔲 **Linear Algebra**: Vectors, matrices, matrix operations.
     - [**Linear Algebra Review and Reference**](https://www.cs.cmu.edu/%7Ezkolter/course/linalg/linalg_notes.pdf) written by [*Zico Kolter*](https://zicokolter.com).
     - [**Notes on Linear Algebra**](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/linalg.pdf) written by [*Peter J. Cameron*](https://cameroncounts.github.io/web).
