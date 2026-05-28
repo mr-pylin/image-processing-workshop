@@ -1,7 +1,7 @@
 # 📷 Media Processing Workshop
 
 [![License](https://img.shields.io/github/license/mr-pylin/media-processing-workshop?color=blue)](https://github.com/mr-pylin/media-processing-workshop/blob/main/LICENSE)
-[![Python Version](https://img.shields.io/badge/Python-3.13.9-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3139/)
+[![Python Version](https://img.shields.io/badge/Python-3.14.5-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/media-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/psf/black)
 ![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/media-processing-workshop?color=lightblue)
@@ -71,21 +71,21 @@ A collection of concepts and tools utilized in the main notebooks
 
 ## ⚙️ Setup
 
-This project requires Python **v3.10** or higher. It was developed and tested using Python **v3.13.9**. If you encounter issues running the specified version of dependencies, consider using this version of Python.
+This project requires Python **v3.10** or higher. It was developed and tested using Python **v3.14.5**. If you encounter issues running the specified version of dependencies, consider using this version of Python.
 
 ### 📝 List of Dependencies
 
-[![imagecodecs](https://img.shields.io/badge/imagecodecs-2025.8.2-008080)](https://pypi.org/project/imagecodecs/2025.8.2/)
-[![ipykernel](https://img.shields.io/badge/ipykernel-7.0.1-ff69b4)](https://pypi.org/project/ipykernel/7.0.1/)
-[![ipympl](https://img.shields.io/badge/ipympl-0.9.8-purple)](https://pypi.org/project/ipympl/0.9.8/)
-[![ipywidgets](https://img.shields.io/badge/ipywidgets-8.1.7-ff6347)](https://pypi.org/project/ipywidgets/8.1.7/)
-[![matplotlib](https://img.shields.io/badge/matplotlib-3.10.7-green)](https://pypi.org/project/matplotlib/3.10.7/)
-[![numpy](https://img.shields.io/badge/numpy-2.3.4-orange)](https://pypi.org/project/numpy/2.3.4/)
-[![opencv-contrib-python](https://img.shields.io/badge/opencv--contrib--python-4.11.0.86-blue)](https://pypi.org/project/opencv-contrib-python/4.11.0.86/)
-[![pillow](https://img.shields.io/badge/pillow-12.0.0-cyan)](https://pypi.org/project/Pillow/12.0.0/)
+[![imagecodecs](https://img.shields.io/badge/imagecodecs-2026.5.10-008080)](https://pypi.org/project/imagecodecs/2026.5.10/)
+[![ipykernel](https://img.shields.io/badge/ipykernel-7.2.0-ff69b4)](https://pypi.org/project/ipykernel/7.2.0/)
+[![ipympl](https://img.shields.io/badge/ipympl-0.10.0-purple)](https://pypi.org/project/ipympl/0.10.0/)
+[![ipywidgets](https://img.shields.io/badge/ipywidgets-8.1.8-ff6347)](https://pypi.org/project/ipywidgets/8.1.8/)
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.10.9-green)](https://pypi.org/project/matplotlib/3.10.9/)
+[![numpy](https://img.shields.io/badge/numpy-2.4.6-orange)](https://pypi.org/project/numpy/2.4.6/)
+[![opencv-contrib-python](https://img.shields.io/badge/opencv--contrib--python-4.13.0.92-blue)](https://pypi.org/project/opencv-contrib-python/4.13.0.92/)
+[![pillow](https://img.shields.io/badge/pillow-12.2.0-cyan)](https://pypi.org/project/Pillow/12.2.0/)
 [![PyWavelets](https://img.shields.io/badge/PyWavelets-1.9.0-red)](https://pypi.org/project/PyWavelets/1.9.0/)
-[![scikit-image](https://img.shields.io/badge/scikit--image-0.25.2-darkblue)](https://pypi.org/project/scikit-image/0.25.2/)
-[![scipy](https://img.shields.io/badge/scipy-1.16.2-purple)](https://pypi.org/project/scipy/1.16.2/)
+[![scikit-image](https://img.shields.io/badge/scikit--image-0.26.0-darkblue)](https://pypi.org/project/scikit-image/0.26.0/)
+[![scipy](https://img.shields.io/badge/scipy-1.17.1-purple)](https://pypi.org/project/scipy/1.17.1/)
 
 ### 📦 Installing Dependencies
 
