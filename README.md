@@ -1,13 +1,13 @@
-# 📷 Media Processing Workshop
+# 📷 Image Processing Workshop
 
-[![License](https://img.shields.io/github/license/mr-pylin/media-processing-workshop?color=blue)](https://github.com/mr-pylin/media-processing-workshop/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/mr-pylin/image-processing-workshop?color=blue)](https://github.com/mr-pylin/image-processing-workshop/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.14.5-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/psf/black)
-![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/media-processing-workshop?color=lightblue)
-![Last Updated](https://img.shields.io/github/last-commit/mr-pylin/media-processing-workshop?color=orange)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?color=brightgreen)](https://github.com/mr-pylin/media-processing-workshop/pulls)
+![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/image-processing-workshop?color=lightblue)
+![Last Updated](https://img.shields.io/github/last-commit/mr-pylin/image-processing-workshop?color=orange)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?color=brightgreen)](https://github.com/mr-pylin/image-processing-workshop/pulls)
 [![Telegram](https://img.shields.io/badge/Telegram-Group-black?logo=telegram)](https://t.me/python_topics)
-<!-- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/media-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) -->
+<!-- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/image-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) -->
 
 A practical guide to digital image processing, covering essential concepts, algorithms, and real-world applications. Through hands-on exercises and step-by-step explanations, you'll learn how to enhance, transform, analyze, and manipulate images using modern tools and techniques.
 
@@ -126,7 +126,7 @@ A collection of concepts and tools utilized in the main notebooks
 > - Stick with the **exact dependency versions** specified in [**uv.lock**](./uv.lock) or [**requirements.txt**](./requirements.txt). The repository has been **tested** with these versions to ensure **compatibility** and **stability**.
 > - This repository is **actively maintained**, and dependencies are **updated regularly** to the latest **stable** versions.
 > - The **table of contents** embedded within **notebooks (`.ipynb` files)** may not function correctly on **GitHub**.
-> - For an improved experience, open the notebooks **locally** or view them via [**nbviewer**](https://nbviewer.org/github/mr-pylin/media-processing-workshop), rather than directly on **GitHub**.
+> - For an improved experience, open the notebooks **locally** or view them via [**nbviewer**](https://nbviewer.org/github/mr-pylin/image-processing-workshop), rather than directly on **GitHub**.
 
 ## 🔗 Usefull Links
 

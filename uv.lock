@@ -447,7 +447,7 @@ wheels = [
 ]
 
 [[package]]
-name = "media-processing-workshop"
+name = "image-processing-workshop"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [

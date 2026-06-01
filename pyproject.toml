@@ -1,5 +1,5 @@
 [project]
-name = "media-processing-workshop"
+name = "image-processing-workshop"
 version = "0.1.0"
 description = "A practical guide to digital image processing, covering essential concepts, algorithms, and real-world applications. Through hands-on exercises and step-by-step explanations, you'll learn how to enhance, transform, analyze, and manipulate images using modern tools and techniques"
 authors = [
@@ -34,7 +34,7 @@ dependencies = [
 ]
 
 [project.urls]
-Repository = "https://github.com/mr-pylin/media-processing-workshop"
+Repository = "https://github.com/mr-pylin/image-processing-workshop"
 MyHomepage = "https://mr-pylin.github.io"
 
 [tool.black]
