@@ -1,7 +1,7 @@
 [project]
 name = "media-processing-workshop"
 version = "0.1.0"
-description = "A comprehensive resource to explore media processing, from fundamental concepts to advanced techniques"
+description = "A practical guide to digital image processing, covering essential concepts, algorithms, and real-world applications. Through hands-on exercises and step-by-step explanations, you'll learn how to enhance, transform, analyze, and manipulate images using modern tools and techniques"
 authors = [
     { name = "Amirhossein Heydari", email = "amirhosseinheydari78@gmail.com" },
 ]

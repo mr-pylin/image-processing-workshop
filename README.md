@@ -2,13 +2,14 @@
 
 [![License](https://img.shields.io/github/license/mr-pylin/media-processing-workshop?color=blue)](https://github.com/mr-pylin/media-processing-workshop/blob/main/LICENSE)
 [![Python Version](https://img.shields.io/badge/Python-3.14.5-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/media-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/psf/black)
 ![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/media-processing-workshop?color=lightblue)
 ![Last Updated](https://img.shields.io/github/last-commit/mr-pylin/media-processing-workshop?color=orange)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?color=brightgreen)](https://github.com/mr-pylin/media-processing-workshop/pulls)
+[![Telegram](https://img.shields.io/badge/Telegram-Group-black?logo=telegram)](https://t.me/python_topics)
+<!-- [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9eb774b7945449cdb86029e9093b3c73)](https://app.codacy.com/gh/mr-pylin/media-processing-workshop/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) -->
 
-A comprehensive resource to explore media processing, from fundamental concepts to advanced techniquess.
+A practical guide to digital image processing, covering essential concepts, algorithms, and real-world applications. Through hands-on exercises and step-by-step explanations, you'll learn how to enhance, transform, analyze, and manipulate images using modern tools and techniques.
 
 ## 📖 Table of Contents
 
@@ -52,13 +53,16 @@ A collection of concepts and tools utilized in the main notebooks
 
 ## 📋 Prerequisites
 
+> [!NOTE]
+> The mathematics requirements below are **not mandatory** but will significantly deepen your understanding of machine learning concepts.
+
 - 👨‍💻 **Programming Fundamentals**
-  - Proficiency in **Python** (data types, control structures, functions, classes, etc.).
+  - 🐍 Proficiency in **Python** (data types, control structures, functions, classes, etc.).
     - My Python Workshop: [**github.com/mr-pylin/python-workshop**](https://github.com/mr-pylin/python-workshop)
-  - Experience with libraries like **NumPy** and **Matplotlib**.
+  - 📦 Experience with libraries like **NumPy** and **Matplotlib**.
     - My NumPy Workshop: [**github.com/mr-pylin/numpy-workshop**](https://github.com/mr-pylin/numpy-workshop)
     - My Data Visualization Workshop: [**github.com/mr-pylin/data-visualization-workshop**](https://github.com/mr-pylin/data-visualization-workshop)
-- 🔣 **Mathematics for Image Processing**
+- 🔣 **Mathematics for Video Processing**
   - 🔲 **Linear Algebra**: Vectors, matrices, matrix operations.
     - [**Linear Algebra Review and Reference**](https://www.cs.cmu.edu/%7Ezkolter/course/linalg/linalg_notes.pdf) written by [*Zico Kolter*](https://zicokolter.com).
     - [**Notes on Linear Algebra**](https://webspace.maths.qmul.ac.uk/p.j.cameron/notes/linalg.pdf) written by [*Peter J. Cameron*](https://cameroncounts.github.io/web).
@@ -71,7 +75,8 @@ A collection of concepts and tools utilized in the main notebooks
 
 ## ⚙️ Setup
 
-This project requires Python **v3.10** or higher. It was developed and tested using Python **v3.14.5**. If you encounter issues running the specified version of dependencies, consider using this version of Python.
+> [!IMPORTANT]
+> This project requires Python **v3.10** or higher. For **optimal compatibility** and to **avoid potential issues** with dependencies, it is **strongly advised** that you use the Python version specified in the [**.python-version**](.python-version) file.
 
 ### 📝 List of Dependencies
 
@@ -89,16 +94,16 @@ This project requires Python **v3.10** or higher. It was developed and tested us
 
 ### 📦 Installing Dependencies
 
-#### 📦 Method 1: uv (**Recommended** ✅)
+#### 1️⃣ Method 1: uv (**Recommended** ✅)
 
-- Use [**uv**](https://docs.astral.sh/uv/) for dependency management. It handles dependencies, virtual environments, and locking versions more efficiently than pip.  
+- Use [**uv**](https://docs.astral.sh/uv/) for dependency management. It handles dependencies, virtual environments, and locking versions more efficiently.
 - To install exact dependency versions specified in [**uv.lock**](./uv.lock) for consistent environments **without** installing the current project as a package:
 
   ```bash
   uv sync --no-install-project
   ```
 
-#### 📦 Method 2: Pip
+#### 2️⃣ Method 2: pip
 
 - Install all dependencies listed in [**requirements.txt**](./requirements.txt) using [**pip**](https://pip.pypa.io/en/stable/installation/):
 
@@ -106,19 +111,22 @@ This project requires Python **v3.10** or higher. It was developed and tested us
   pip install -r requirements.txt
   ```
 
+> [!CAUTION]
+> **pip** does not lock dependency versions as strictly as `uv`. You may encounter version conflicts or reproducibility issues. Only use this method if you know what you are doing.
+
 ### 🛠️ Usage Instructions
 
-1. Open the root folder with [**VS Code**](https://code.visualstudio.com/) (`Ctrl/Cmd + K` followed by `Ctrl/Cmd + O`).
-1. Open `.ipynb` files using the [**Jupyter extension**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) integrated with **VS Code**.
-1. Select the correct Python kernel and virtual environment where the dependencies were installed.
+1. Open the root folder in [**VS Code**](https://code.visualstudio.com/) (`Ctrl/Cmd + K` then `Ctrl/Cmd + O`).
+1. Open `.ipynb` files using the [**Jupyter extension**](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) integrated within **VS Code**.
 1. Allow **VS Code** to install any recommended dependencies for working with Jupyter Notebooks.
+1. Select the correct Python kernel and virtual environment in which the dependencies were installed.
 
-✍️ **Notes**:  
-
-- It is **highly recommended** to stick with the exact dependency versions specified in [**uv.lock**](./uv.lock) or [**requirements.txt**](./requirements.txt) rather than using the latest package versions. The repository has been **tested** on these versions to ensure **compatibility** and **stability**.
-- This repository is **actively maintained**, and dependencies are **updated regularly** to the latest **stable** versions.
-- The **table of contents** embedded in the **notebooks** may not function correctly on **GitHub**.
-- For an improved experience, open the notebooks **locally** or view them via [**nbviewer**](https://nbviewer.org/github/mr-pylin/media-processing-workshop).
+> [!NOTE]
+>
+> - Stick with the **exact dependency versions** specified in [**uv.lock**](./uv.lock) or [**requirements.txt**](./requirements.txt). The repository has been **tested** with these versions to ensure **compatibility** and **stability**.
+> - This repository is **actively maintained**, and dependencies are **updated regularly** to the latest **stable** versions.
+> - The **table of contents** embedded within **notebooks (`.ipynb` files)** may not function correctly on **GitHub**.
+> - For an improved experience, open the notebooks **locally** or view them via [**nbviewer**](https://nbviewer.org/github/mr-pylin/media-processing-workshop), rather than directly on **GitHub**.
 
 ## 🔗 Usefull Links
 
@@ -128,14 +136,6 @@ This project requires Python **v3.10** or higher. It was developed and tested us
   - ffmpeg is a Swiss Army knife for media, converting and manipulating audio and video files in a wide range of formats.
   - Link: [github.com/BtbN/FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds)
 
-- **Video Quality Measurement Tool (VQMT)**:
-  - It is a software program designed to analyze the quality of digital video and images.
-  - Link: [compression.ru/video/quality_measure](http://www.compression.ru/video/quality_measure/vqmt_download.html)
-
-- **yuv-player**:
-  - Lightweight YUV player which supports various YUV format.
-  - Link: [github.com/Tee0125/yuvplayer](https://github.com/Tee0125/yuvplayer)
-
 ### Benchmark Files
 
 - **DIP3/e — Book Images**
@@ -143,39 +143,32 @@ This project requires Python **v3.10** or higher. It was developed and tested us
   - Permission is required from the owner of a © image if the image is used for other than personal educational or research purposes.
   - Link: [imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm](https://www.imageprocessingplace.com/DIP-3E/dip3e_book_images_downloads.htm)
 
-- **YUV4MPEG Videos**:
-  - Derf's video collection provides uncompressed YUV4MPEG clips for testing video codecs.
-  - Link: [media.xiph.org/video/derf](https://media.xiph.org/video/derf/)
-
 ### Codecs
 
 - Codecs are algorithms used to **compress** and **decompress** signals, ensuring **efficient storage and transmission of high-quality** signals **e.g. videos**.
-- For detailed information on popular image/video codecs, refer to the [**./codecs/README.md**](./codecs/README.md).
+- For detailed information on popular image codecs, refer to the [**./codecs/README.md**](./codecs/README.md).
 
-### **NumPy**
+### NumPy
 
 - A fundamental package for scientific computing in Python, providing support for **arrays**, **matrices**, and a large collection of **mathematical functions**.
 - Official site: [numpy.org](https://numpy.org/)
 
-### **Data Visualization**
+### Data Visualization
 
 - A comprehensive collection of Python libraries for creating static, animated, and interactive visualizations: **Matplotlib**, **Seaborn**, and **Plotly**.
 - Official sites: [matplotlib.org](https://matplotlib.org/) | [seaborn.pydata.org](https://seaborn.pydata.org/) | [plotly.com](https://plotly.com/)
 
-### **OpenCV (Open Source Computer Vision Library)**
+### OpenCV (Open Source Computer Vision)
 
 - A powerful open-source library (primarily written in C++) for computer vision and image processing tasks.
 - Supports a wide range of functionalities, including image and video processing, object detection, facial recognition, and more.
 - Compatible with multiple programming languages, including Python, C++, and Java.
 - Official sites: [opencv.org](https://opencv.org/)
 
-## 🔍 Find Me
+## 🤝 Contributions & Feedback
 
-Any mistakes, suggestions, or contributions? Feel free to reach out to me at:
-
-- 📍[**linktr.ee/mr_pylin**](https://linktr.ee/mr_pylin)
-
-I look forward to connecting with you! 🏃‍♂️
+- Found an issue, have a suggestion, or wish to contribute? Your input is **highly valued**.  
+- Reach out to me via [**linktr.ee/mr_pylin**](https://linktr.ee/mr_pylin).
 
 ## 📄 License
 
