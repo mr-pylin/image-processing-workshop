@@ -1,7 +1,7 @@
 # 📷 Image Processing Workshop
 
 [![License](https://img.shields.io/github/license/mr-pylin/image-processing-workshop?color=blue)](https://github.com/mr-pylin/image-processing-workshop/blob/main/LICENSE)
-[![Python Version](https://img.shields.io/badge/Python-3.14.5-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3145/)
+[![Python Version](https://img.shields.io/badge/Python-3.15.1-yellow?logo=python&logoColor=white)](https://www.python.org/downloads/release/python-3151/)
 [![Code Style](https://img.shields.io/badge/code%20style-black-black.svg)](https://github.com/psf/black)
 ![Repo Size](https://img.shields.io/github/repo-size/mr-pylin/image-processing-workshop?color=lightblue)
 ![Last Updated](https://img.shields.io/github/last-commit/mr-pylin/image-processing-workshop?color=orange)
@@ -80,17 +80,17 @@ A collection of concepts and tools utilized in the main notebooks
 
 ### 📝 List of Dependencies
 
-[![imagecodecs](https://img.shields.io/badge/imagecodecs-2026.5.10-008080)](https://pypi.org/project/imagecodecs/2026.5.10/)
-[![ipykernel](https://img.shields.io/badge/ipykernel-7.2.0-ff69b4)](https://pypi.org/project/ipykernel/7.2.0/)
+[![imagecodecs](https://img.shields.io/badge/imagecodecs-2026.10.10-teal)](https://pypi.org/project/imagecodecs/2026.10.10/)
+[![ipykernel](https://img.shields.io/badge/ipykernel-7.4.0-ff69b4)](https://pypi.org/project/ipykernel/7.4.0/)
 [![ipympl](https://img.shields.io/badge/ipympl-0.10.0-purple)](https://pypi.org/project/ipympl/0.10.0/)
-[![ipywidgets](https://img.shields.io/badge/ipywidgets-8.1.8-ff6347)](https://pypi.org/project/ipywidgets/8.1.8/)
-[![matplotlib](https://img.shields.io/badge/matplotlib-3.10.9-green)](https://pypi.org/project/matplotlib/3.10.9/)
-[![numpy](https://img.shields.io/badge/numpy-2.4.6-orange)](https://pypi.org/project/numpy/2.4.6/)
-[![opencv-contrib-python](https://img.shields.io/badge/opencv--contrib--python-4.13.0.92-blue)](https://pypi.org/project/opencv-contrib-python/4.13.0.92/)
-[![pillow](https://img.shields.io/badge/pillow-12.2.0-cyan)](https://pypi.org/project/Pillow/12.2.0/)
-[![PyWavelets](https://img.shields.io/badge/PyWavelets-1.9.0-red)](https://pypi.org/project/PyWavelets/1.9.0/)
-[![scikit-image](https://img.shields.io/badge/scikit--image-0.26.0-darkblue)](https://pypi.org/project/scikit-image/0.26.0/)
-[![scipy](https://img.shields.io/badge/scipy-1.17.1-purple)](https://pypi.org/project/scipy/1.17.1/)
+[![ipywidgets](https://img.shields.io/badge/ipywidgets-8.1.9-red)](https://pypi.org/project/ipywidgets/8.1.9/)
+[![matplotlib](https://img.shields.io/badge/matplotlib-3.11.2-green)](https://pypi.org/project/matplotlib/3.11.2/)
+[![numpy](https://img.shields.io/badge/numpy-2.5.4-orange)](https://pypi.org/project/numpy/2.5.4/)
+[![opencv-contrib-python](https://img.shields.io/badge/opencv--contrib--python-5.0.0.93-blue)](https://pypi.org/project/opencv-contrib-python/5.0.0.93/)
+[![pillow](https://img.shields.io/badge/pillow-13.0.0-cyan)](https://pypi.org/project/Pillow/13.0.0/)
+[![PyWavelets](https://img.shields.io/badge/PyWavelets-1.10.0-red)](https://pypi.org/project/PyWavelets/1.10.0/)
+[![scikit-image](https://img.shields.io/badge/scikit--image-0.27.0rc1-darkblue)](https://pypi.org/project/scikit-image/0.27.0rc1/)
+[![scipy](https://img.shields.io/badge/scipy-1.18.1-purple)](https://pypi.org/project/scipy/1.18.1/)
 
 ### 📦 Installing Dependencies
 
@@ -167,8 +167,13 @@ A collection of concepts and tools utilized in the main notebooks
 
 ## 🤝 Contributions & Feedback
 
-- Found an issue, have a suggestion, or wish to contribute? Your input is **highly valued**.  
-- Reach out to me via [**linktr.ee/mr_pylin**](https://linktr.ee/mr_pylin).
+Found an issue, have a suggestion, or wish to contribute? Your input is **highly valued**.  
+
+- 📍 All links: [**linktr.ee/mr_pylin**](https://linktr.ee/mr_pylin)
+- 💬 Telegram Group: [**@python_topics**](https://t.me/python_topics)
+- 📧 Email: [**amirhosseinheydari78@gmail.com**](mailto:amirhosseinheydari78@gmail.com)
+
+I look forward to connecting with you! 🏃‍♂️
 
 ## 📄 License
 
